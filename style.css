@@ -1,0 +1,38 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+audio{
+    display: block;
+    margin: auto;
+    margin-top: 10px;
+}
+
+.card{
+    width: 25rem;
+}
+
+.card-body{
+    text-align: center;
+}
+
+#load{
+    margin: 10px;
+    width: 20rem;
+}
+
+.card{
+    box-shadow: 0px 8px 25px 1px rgb(237 237 237 / 88%);
+    border-radius: 10px;
+    border: none;
+}
+
