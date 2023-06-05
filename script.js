@@ -50,6 +50,10 @@ const songsList = [{
 {
     name: "Shayad Remix",
     filename: "ShayadRemix.mp3"
+},
+{
+    name: "THANKOT",
+    filename: "THANKOT.mp3"
 }
 ];
 
