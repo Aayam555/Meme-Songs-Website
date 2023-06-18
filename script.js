@@ -58,6 +58,18 @@ const songsList = [{
 {
     name: "Jai Shree Ram",
     filename: "JaiShreeRam.mp3"
+},
+{
+    name: "Himal",
+    filename: "Himal.mp3"
+},
+{
+    name: "Apna Bana Le",
+    filename: "ApnaBanaLe.mp3"
+},
+{
+    name: "Phone Aayo",
+    filename: "PhoneAayo.mp3"
 }
 ];
 
