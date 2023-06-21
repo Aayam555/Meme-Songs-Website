@@ -70,6 +70,18 @@ const songsList = [{
 {
     name: "Phone Aayo",
     filename: "PhoneAayo.mp3"
+},
+{
+    name: "Himal[V]",
+    filename: "Himal[V].mp4"
+},
+{
+    name: "I am Jesus my Son[V]",
+    filename: "IamJesusmySon[V].mp4"
+},
+{
+    name: "Sagarmatha[V]",
+    filename: "Sagarmatha[V].mp4"
 }
 ];
 
@@ -85,8 +97,10 @@ function loadSong() {
     const nameOfSong = document.getElementById("songSelector").value;
     const audio = document.getElementById("audio");
     const songSource = document.getElementById("songSource");
+    const video = document.getElementById("video");
 
     songSource.src = "./audios/" + nameOfSong;
+    video.src = "./videos/" + nameOfSong;
 
     audio.load();
 }
