@@ -90,6 +90,18 @@ const songsList = [{
 {
     name: "Sagarmatha[V]",
     filename: "Sagarmatha[V].mp4"
+},
+{
+    name: "CH(URAQT).mp3",
+    filename: "CH(URAQT).mp3"
+},
+{
+    name: "Kritish[V]",
+    filename: "leleramram.mp4"
+},
+{
+    name: "Dikshya(DJ)[V]",
+    filename: "DJ.mp4"
 }
 ];
 
