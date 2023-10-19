@@ -106,6 +106,10 @@ const songsList = [{
 {
     name: "Dikshya(DJ)[V]",
     filename: "DJ.mp4"
+},
+{
+    name: "JJ Badarni",
+    filename: "JJBadarni.mp3"
 }
 ];
 
