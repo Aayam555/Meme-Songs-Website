@@ -110,6 +110,10 @@ const songsList = [{
 {
     name: "JJ Badarni",
     filename: "JJBadarni.mp3"
+},
+{
+    name: "Angish[V]",
+    filename: "AngishSapkota.mp4"
 }
 ];
 
