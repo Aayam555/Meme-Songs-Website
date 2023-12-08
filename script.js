@@ -118,7 +118,11 @@ const songsList = [{
 {
     name: "Harpic Shorma",
     filename: "HarpicShorma.mp3"
-}                       
+},
+{
+    name: "Rahe Na Rahe Hum",
+    filename: "rahenarahehum.mp3"
+}     
 ];
 
 let songOptions = "<option selected>Select Song</option>";
