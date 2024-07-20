@@ -126,7 +126,11 @@ const songsList = [{
 {
     name: "Lukka Chuppi",
     filename: "LukaChuppiCover.mp3"
-} 
+},
+{
+    name: "Shri Ram Chandra Kripalu",
+    filename: "ShriRamChandraKripalu.mp3"
+}
 ];
 
 let songOptions = "<option selected>Select Song</option>";
