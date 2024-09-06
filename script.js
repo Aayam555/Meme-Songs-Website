@@ -132,8 +132,12 @@ const songsList = [{
     filename: "ShriRamChandraKripalu.mp3"
 },
 {
-    name: "Areli Kadai le Malai[V]",
+    name: "Areli Kadai le Malai (Hardik's Birthday)[V]",
     filename: "areliKadaiLeMalai.mp4"
+},
+{
+    name: "Sijal's Birthday[V]",
+    filename: "SijalBirthday.mp4"
 }
 
 ];
