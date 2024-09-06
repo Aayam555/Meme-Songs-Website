@@ -130,7 +130,12 @@ const songsList = [{
 {
     name: "Shri Ram Chandra Kripalu",
     filename: "ShriRamChandraKripalu.mp3"
+},
+{
+    name: "Areli Kadai le Malai[V]",
+    filename: "areliKadaiLeMalai.mp4"
 }
+
 ];
 
 let songOptions = "<option selected>Select Song</option>";
