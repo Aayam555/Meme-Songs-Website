@@ -138,6 +138,10 @@ const songsList = [{
 {
     name: "Sijal's Birthday[V]",
     filename: "SijalBirthday.mp4"
+},
+{
+    name: "Kehna Hi Kya",
+    filename: "kehnaHiKya.mp3"
 }
 
 ];
