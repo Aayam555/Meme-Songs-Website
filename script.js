@@ -142,6 +142,10 @@ const songsList = [{
 {
     name: "Kehna Hi Kya",
     filename: "kehnaHiKya.mp3"
+},
+{
+    name: "Duniya Main",
+    filename: "duniyaMain.mp3"
 }
 
 ];
