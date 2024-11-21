@@ -146,8 +146,11 @@ const songsList = [{
 {
     name: "Duniya Main",
     filename: "duniyaMain.mp3"
+},
+{
+    name: "Tume Mohobat Hain",
+    filename: "tumeMohobatHain"
 }
-
 ];
 
 let songOptions = "<option selected>Select Song</option>";
