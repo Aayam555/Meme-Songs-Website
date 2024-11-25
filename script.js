@@ -150,6 +150,10 @@ const songsList = [{
 {
     name: "Tume Mohobat Hain",
     filename: "tumeMohobatHain.mp3"
+},
+{
+    name: "Ek Bagal Main[V]",
+    filename: "ikBagal.mp4"
 }
 ];
 
