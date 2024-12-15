@@ -125,7 +125,7 @@ const songsList = [{
 },
 {
     name: "Lukka Chuppi",
-    filename: "LukaChuppiCover.mp3"
+    filename: "LukkaChuppiCover.mp3"
 },
 {
     name: "Shri Ram Chandra Kripalu",
