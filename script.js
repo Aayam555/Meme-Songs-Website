@@ -154,6 +154,10 @@ const songsList = [{
 {
     name: "Ek Bagal Main[V]",
     filename: "ikBagal.mp4"
+},
+{
+    name: "Spiderman",
+    filename: "Spiderman.mp3"
 }
 ];
 
