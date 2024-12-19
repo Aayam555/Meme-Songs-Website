@@ -158,6 +158,14 @@ const songsList = [{
 {
     name: "Spiderman",
     filename: "Spiderman.mp3"
+},
+{
+    name: "Phohor Falna Manahi Xa[V]",
+    filename: "phohorFalnaManahiXa.mp4"
+},
+{
+    name: "VIBGYOR[V]",
+    filename: "VIBGYOR.mp4"
 }
 ];
 
