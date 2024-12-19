@@ -108,10 +108,6 @@ const songsList = [{
     filename: "DJ.mp4"
 },
 {
-    name: "JJ Badarni",
-    filename: "JJBadarni.mp3"
-},
-{
     name: "Angish[V]",
     filename: "AngishSapkota.mp4"
 },
@@ -134,10 +130,6 @@ const songsList = [{
 {
     name: "Areli Kadai le Malai (Hardik's Birthday)[V]",
     filename: "areliKadaiLeMalai.mp4"
-},
-{
-    name: "Sijal's Birthday[V]",
-    filename: "SijalBirthday.mp4"
 },
 {
     name: "Kehna Hi Kya",
