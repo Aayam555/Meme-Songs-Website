@@ -158,6 +158,10 @@ const songsList = [{
 {
     name: "VIBGYOR[V]",
     filename: "VIBGYOR.mp4"
+},
+{
+    name: "LukkaChuppi2",
+    filename: "LukkaChuppi2.mp3"
 }
 ];
 
