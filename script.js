@@ -162,7 +162,11 @@ const songsList = [{
 {
     name: "LukkaChuppi2",
     filename: "LukkaChuppi2.mp3"
-}
+},
+{
+    name: "Projectile Bahubali",
+    filename: "projectileBahubali.mp4"
+}    
 ];
 
 let songOptions = "<option selected>Select Song</option>";
